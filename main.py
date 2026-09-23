@@ -16,7 +16,7 @@ try:
     # with → safe file handling
     # open() → file open karna
     # as → file ko variable name dena
-    with open("tasks.json") as file:
+    with open("main.json") as file:
 
         # json.load() → JSON file se data read karna
         tasks = json.load(file)
@@ -178,7 +178,7 @@ while True:
     elif choice == "6":
 
         # File save
-        with open("tasks.json", "w") as file:
+        with open("main.json", "w") as file:
             json.dump(tasks, file)
 
         # break loop ko stop karna
