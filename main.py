@@ -187,4 +187,4 @@ while True:
 
     # Invalid input
     else:
-        print("Invalid choice")
+        print("Invalid choice").

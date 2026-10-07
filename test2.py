@@ -13,4 +13,4 @@ def get_passed_students(marks):
     return passed_students
 
 result = get_passed_students(marks)
-print(result)
+print(result).
