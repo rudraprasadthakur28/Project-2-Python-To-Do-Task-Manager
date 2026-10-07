@@ -134,4 +134,4 @@ To-Do-Task-Manager/
 
 ## Purpose
 
-This project was created as a Python practice project to strengthen programming fundamentals and understand how different Python concepts work together in a small real-world application
+This project was created as a Python practice project to strengthen programming fundamentals and understand how different Python concepts work together in a small real-world application.

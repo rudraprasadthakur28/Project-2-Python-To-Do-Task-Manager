@@ -17,4 +17,4 @@ def get_result_report(marks):
     return top_students
 
 result = get_result_report(marks)
-print(result).
+print(result)

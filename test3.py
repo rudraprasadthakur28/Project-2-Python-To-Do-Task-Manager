@@ -13,4 +13,4 @@ def get_failed_students(marks):
     return failed_students
 
 result = get_failed_students(marks)
-print(result).
+print(result)
